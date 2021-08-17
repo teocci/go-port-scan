@@ -1,6 +1,5 @@
 ## go-port-scan
 
-## Introduction
 `go-port-scan` package provides simple port scanning examples to learn Go concurrency and goroutine bounding.
 
 ## Features
